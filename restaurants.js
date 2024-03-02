@@ -33,6 +33,8 @@ if( price > 260){
     console.log(price);
 }
 
+
+
 else{
     console.log(amount);
 }
